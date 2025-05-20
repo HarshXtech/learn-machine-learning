@@ -1,0 +1,15 @@
+day,weather,temp,humidity,wind,play
+D1,sunny,Hot,High,Weak,No
+D2,sunny,Hot,High,Strong,No
+D3,cloudy,Hot,High,Weak,Yes
+D4,rain,Mild,High,Weak,Yes
+D5,rain,Cool,Normal,Weak,Yes
+D6,rain,Cool,Normal,Strong,No
+D7,cloudy,Cool,Normal,Strong,Yes
+D8,sunny,Mild,High,Weak,No
+D9,sunny,Cool,Normal,Weak,Yes
+D10,rain,Mild,Normal,Weak,Yes
+D11,sunny,Mild,Normal,Strong,Yes
+D12,cloudy,Mild,High,Strong,Yes
+D13,cloudy,Hot,Normal,Weak,Yes
+D14,rain,Mild,High,Strong,No
